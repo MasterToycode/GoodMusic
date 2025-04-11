@@ -1,7 +1,8 @@
 # 歌词生成系统
 
-AIGC创意文本生成，使用LoRA和强化学习进行微调。
-注意：Data数据文件太大了，DS_data.txt以及processed_data.txt文件您下载之后还需要解压。如果您想直接下载原始数据文件，请去我的HuggingFace主页下载原始数据
+- AIGC创意文本生成，使用LoRA和强化学习进行微调。
+- 注意：Data数据文件太大了，DS_data.txt以及processed_data.txt文件您下载之后还需要解压。如果您想直接下载原始数据文件，请去我的HuggingFace主页下载原始数据
+- 同时附上课程设计报告
 
 ## 项目结构
 
