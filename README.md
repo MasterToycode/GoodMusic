@@ -29,7 +29,7 @@ AIGC创意文本生成，使用LoRA和强化学习进行微调。
 ## 使用方法
 
 1. 安装依赖:
-- (请根据您的GPI cuda版本下载对应的torch版本！)
+- (请根据您的GPU cuda版本下载对应的torch版本！)
 - conda create -n Goodmusic python==3.11
 - conda activate Goodmusic
 - pip install -r requirements.txt
