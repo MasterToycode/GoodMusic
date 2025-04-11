@@ -1,0 +1,16 @@
+PyQt5>=5.15
+transformers>=4.30
+peft>=0.15
+torch>=2.0
+numpy
+matplotlib
+jupyter
+trl
+datasets
+accelerate
+safetensors
+scipy
+tqdm
+tensorboard
+sentence-transformers
+openai
