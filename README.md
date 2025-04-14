@@ -75,6 +75,7 @@ python code/__main__.py
    - `CoTdata.txt`: 带思维链的训练数据
    - `DSdata.txt`: 关键词-原文对训练数据
    - `processed_data.txt`: 预处理后的训练数据
+   - 由于后两个数据文件过大，您还需要下载项目之后解压，如果您想得到原始数据，请去我的HuggingFace主页下载
 
 ### 训练流程
 1. **LoRA微调**:
